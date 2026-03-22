@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכה הבאה לפלטפורמה הדיגיטלית הפרימיום לנשים עם שיער כסוף. קהילת Silver Sisters עם 17,000 חברות, מגזין דיגיטלי, ליווי מקצועי והעצמה אמיתית. הצטרפי עכשיו!
+
+### אודות
+https://example.com/about
+מיטל פרץ גולן הקימה את House of Silver מתוך אמונה שכסף הוא בחירה אמיצה ואופנתית. גלי את הוויזיה, הערכים והקהילה שהפכו אלפי נשים לגרסה הטובה ביותר של עצמן.
+
+### מסע
+https://example.com/journey
+בין אם את בהתלבטות, בתהליך המעבר או כבר גאה בכסף שלך — המסע המותאם אישית שלנו ילווה אותך בכל שלב עם כלים מקצועיים, אבחון כימי ותמיכת קהילה אמיתית.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה, רוצה לשמוע על שירותי האבחון הכימי או פשוט להצטרף לקהילה? צוות House of Silver כאן בשבילך — צרי קשר ונחזור אלייך בהקדם עם כל המידע שצריך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
